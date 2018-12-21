@@ -1,0 +1,7 @@
+C:\Users\jamesparry-turner\Desktop\Hack Time Projects\Planets\Planets.Data\bin\Debug\Planets.Data.exe.config
+C:\Users\jamesparry-turner\Desktop\Hack Time Projects\Planets\Planets.Data\bin\Debug\Planets.Data.exe
+C:\Users\jamesparry-turner\Desktop\Hack Time Projects\Planets\Planets.Data\bin\Debug\Planets.Data.pdb
+C:\Users\jamesparry-turner\Desktop\Hack Time Projects\Planets\Planets.Data\obj\Debug\Planets.Data.csprojAssemblyReference.cache
+C:\Users\jamesparry-turner\Desktop\Hack Time Projects\Planets\Planets.Data\obj\Debug\Planets.Data.csproj.CoreCompileInputs.cache
+C:\Users\jamesparry-turner\Desktop\Hack Time Projects\Planets\Planets.Data\obj\Debug\Planets.Data.exe
+C:\Users\jamesparry-turner\Desktop\Hack Time Projects\Planets\Planets.Data\obj\Debug\Planets.Data.pdb
