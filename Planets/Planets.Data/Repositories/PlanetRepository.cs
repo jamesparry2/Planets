@@ -1,4 +1,5 @@
-﻿using Planets.Data.Model;
+﻿using Planets.Data.DataContextLayer;
+using Planets.Data.Model;
 
 namespace Planets.Data.Repositories
 {
@@ -11,6 +12,18 @@ namespace Planets.Data.Repositories
     {
         public Planet GetPlanetById(long id)
         {
+            var planetToReturn = new Planet();
+
+            using(var context = new PlanetContext())
+            {
+                context.Planets.Add(new Planet()
+                {
+                    PlanetName = "Jupiter",
+                    Type = "Gas Giant"
+                });
+                context.SaveChanges();
+            }
+ 
             return new Planet
             {
                 PlanetId = 22,

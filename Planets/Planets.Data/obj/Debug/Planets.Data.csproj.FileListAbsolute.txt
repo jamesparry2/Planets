@@ -5,3 +5,15 @@ C:\Users\jamesparry-turner\Desktop\Hack Time Projects\Planets\Planets.Data\obj\D
 C:\Users\jamesparry-turner\Desktop\Hack Time Projects\Planets\Planets.Data\obj\Debug\Planets.Data.csproj.CoreCompileInputs.cache
 C:\Users\jamesparry-turner\Desktop\Hack Time Projects\Planets\Planets.Data\obj\Debug\Planets.Data.exe
 C:\Users\jamesparry-turner\Desktop\Hack Time Projects\Planets\Planets.Data\obj\Debug\Planets.Data.pdb
+D:\Visual Studio\Planets\Planets\Planets.Data\bin\Debug\Planets.Data.exe.config
+D:\Visual Studio\Planets\Planets\Planets.Data\bin\Debug\Planets.Data.exe
+D:\Visual Studio\Planets\Planets\Planets.Data\bin\Debug\Planets.Data.pdb
+D:\Visual Studio\Planets\Planets\Planets.Data\obj\Debug\Planets.Data.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Planets\Planets\Planets.Data\obj\Debug\Planets.Data.exe
+D:\Visual Studio\Planets\Planets\Planets.Data\obj\Debug\Planets.Data.pdb
+D:\Visual Studio\Planets\Planets\Planets.Data\bin\Debug\EntityFramework.dll
+D:\Visual Studio\Planets\Planets\Planets.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio\Planets\Planets\Planets.Data\bin\Debug\EntityFramework.xml
+D:\Visual Studio\Planets\Planets\Planets.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio\Planets\Planets\Planets.Data\obj\Debug\Planets.Data.csprojAssemblyReference.cache
+D:\Visual Studio\Planets\Planets\Planets.Data\obj\Debug\Planets.Data.csproj.CopyComplete

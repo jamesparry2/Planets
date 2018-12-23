@@ -9,3 +9,18 @@ C:\Users\jamesparry-turner\Desktop\Hack Time Projects\Planets\Planets.Common\obj
 C:\Users\jamesparry-turner\Desktop\Hack Time Projects\Planets\Planets.Common\obj\Debug\Planets.Common.csproj.CopyComplete
 C:\Users\jamesparry-turner\Desktop\Hack Time Projects\Planets\Planets.Common\obj\Debug\Planets.Common.exe
 C:\Users\jamesparry-turner\Desktop\Hack Time Projects\Planets\Planets.Common\obj\Debug\Planets.Common.pdb
+D:\Visual Studio\Planets\Planets\Planets.Common\bin\Debug\Planets.Common.exe.config
+D:\Visual Studio\Planets\Planets\Planets.Common\bin\Debug\Planets.Common.exe
+D:\Visual Studio\Planets\Planets\Planets.Common\bin\Debug\Planets.Common.pdb
+D:\Visual Studio\Planets\Planets\Planets.Common\bin\Debug\Planets.Data.exe
+D:\Visual Studio\Planets\Planets\Planets.Common\bin\Debug\Planets.Data.pdb
+D:\Visual Studio\Planets\Planets\Planets.Common\bin\Debug\Planets.Data.exe.config
+D:\Visual Studio\Planets\Planets\Planets.Common\obj\Debug\Planets.Common.csprojAssemblyReference.cache
+D:\Visual Studio\Planets\Planets\Planets.Common\obj\Debug\Planets.Common.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Planets\Planets\Planets.Common\obj\Debug\Planets.Common.csproj.CopyComplete
+D:\Visual Studio\Planets\Planets\Planets.Common\obj\Debug\Planets.Common.exe
+D:\Visual Studio\Planets\Planets\Planets.Common\obj\Debug\Planets.Common.pdb
+D:\Visual Studio\Planets\Planets\Planets.Common\bin\Debug\EntityFramework.dll
+D:\Visual Studio\Planets\Planets\Planets.Common\bin\Debug\EntityFramework.xml
+D:\Visual Studio\Planets\Planets\Planets.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio\Planets\Planets\Planets.Common\bin\Debug\EntityFramework.SqlServer.xml
