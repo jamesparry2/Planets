@@ -16,6 +16,9 @@ namespace Planets
             container.RegisterType<IPlanetRepository, PlanetRepository>(new TransientLifetimeManager());
             container.RegisterType<IPlanetService, PlanetService>(new TransientLifetimeManager());
 
+            container.RegisterType<IImagesRepository, ImagesRepository>(new TransientLifetimeManager());
+            container.RegisterType<IImageService, ImageService>(new TransientLifetimeManager());
+
             DependencyResolver.SetResolver(new UnityDependencyResolver(container));
         }
     }

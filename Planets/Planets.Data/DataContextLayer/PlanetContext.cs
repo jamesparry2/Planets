@@ -1,10 +1,5 @@
 ﻿using Planets.Data.Model;
-using System;
-using System.Collections.Generic;
 using System.Data.Entity;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Planets.Data.DataContextLayer
 {
@@ -12,10 +7,12 @@ namespace Planets.Data.DataContextLayer
     {
         public PlanetContext() : base("PlanetContext")
         {
-            Database.SetInitializer<PlanetContext>(new DropCreateDatabaseIfModelChanges<PlanetContext>());
+            Database.SetInitializer(new DropCreateDatabaseIfModelChanges<PlanetContext>());
         }
 
         public DbSet<Planet> Planets { get; set; }
+        public DbSet<Image> Images { get; set; }
+        public DbSet<PlanetType> PlanetTypes { get; set; }
 
     }
 }
