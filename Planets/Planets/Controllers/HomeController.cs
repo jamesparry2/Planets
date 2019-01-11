@@ -1,5 +1,6 @@
 ﻿using System.Web.Mvc;
 using Planets.Common.Service;
+using Planets.Data.Model;
 
 namespace Planets.Controllers
 {
@@ -14,9 +15,6 @@ namespace Planets.Controllers
 
         public ActionResult Index()
         {
-            var response = _planetService.GetPlanetById(2);
-            var responseTwo = _planetService.GetAllPlanets();
-
             return View();
         }
 

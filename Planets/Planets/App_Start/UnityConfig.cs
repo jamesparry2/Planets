@@ -1,3 +1,4 @@
+using System.Web.Http;
 using System.Web.Mvc;
 using Planets.Common.Service;
 using Planets.Data.Repositories;
@@ -20,6 +21,7 @@ namespace Planets
             container.RegisterType<IImageService, ImageService>(new TransientLifetimeManager());
 
             DependencyResolver.SetResolver(new UnityDependencyResolver(container));
+            GlobalConfiguration.Configuration.DependencyResolver = new Unity.WebApi.UnityDependencyResolver(container);
         }
     }
 }

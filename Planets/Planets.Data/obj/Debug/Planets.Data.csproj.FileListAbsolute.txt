@@ -17,3 +17,37 @@ D:\Visual Studio\Planets\Planets\Planets.Data\bin\Debug\EntityFramework.xml
 D:\Visual Studio\Planets\Planets\Planets.Data\bin\Debug\EntityFramework.SqlServer.xml
 D:\Visual Studio\Planets\Planets\Planets.Data\obj\Debug\Planets.Data.csprojAssemblyReference.cache
 D:\Visual Studio\Planets\Planets\Planets.Data\obj\Debug\Planets.Data.csproj.CopyComplete
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Planets.Data.exe.config
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Planets.Data.exe
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Planets.Data.pdb
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\EntityFramework.dll
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\EntityFramework.xml
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\obj\Debug\Planets.Data.csproj.CoreCompileInputs.cache
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\obj\Debug\Planets.Data.csproj.CopyComplete
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\obj\Debug\Planets.Data.exe
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\obj\Debug\Planets.Data.pdb
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\CommonServiceLocator.dll
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\System.Web.Http.dll
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Unity.Abstractions.dll
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Unity.Configuration.dll
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Unity.Container.dll
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Unity.Interception.dll
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Unity.WebApi.dll
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\CommonServiceLocator.pdb
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\System.Web.Http.xml
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Unity.Abstractions.pdb
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Unity.Configuration.pdb
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Unity.Container.pdb
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Unity.Interception.pdb
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\jamesparry-turner\Documents\Planet\Planets\Planets.Data\bin\Debug\Unity.ServiceLocation.pdb

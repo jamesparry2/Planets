@@ -22,7 +22,7 @@ namespace Planets.Data.Repositories
             var listOfPlanets = new List<Planet>();
             using(var context = new PlanetContext())
             {
-                var response = context.Planets.SqlQuery("SELECT * FROM Planets").ToList();
+                listOfPlanets = context.Planets.SqlQuery("SELECT * FROM Planets").ToList();
             }
             return listOfPlanets;
         }
@@ -66,17 +66,16 @@ namespace Planets.Data.Repositories
             {
                 var sqlParams = new List<SqlParameter>
                 {
-                    new SqlParameter("@TypeId", planet.Type.Id),
-                    new SqlParameter("@ImageId", planet.Image.ImageId),
+                    //new SqlParameter("@TypeId", planet.Type.Id),
+                    //new SqlParameter("@ImageId", planet.Image.ImageId),
                     new SqlParameter("@PlanetName", planet.PlanetName),
                     new SqlParameter("@PlanetId", planet.PlanetId)
                 };
-
+                // Type_Id = @TypeId,
+                // Image_ImageId = @ImageId,
                 var sqlQueryToExecute = @"
                     UPDATE Planets
                     SET 
-                        Type_Id = @TypeId,
-                        Image_ImageId = @ImageId,
                         PlanetName = @PlanetName
                     WHERE PlanetId = @PlanetId;
                 ";
